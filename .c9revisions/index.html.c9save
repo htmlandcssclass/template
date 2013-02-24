@@ -1,0 +1,7 @@
+{"ts":1361665749406,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"ts":1361665843247,"patch":[[{"diffs":[[0," <body>\n"],[1,"    <h1>Hello, World!</h1>"],[0,"\n  </bod"]],"start1":115,"start2":115,"length1":16,"length2":42}]],"length":167,"saved":false}
+{"ts":1361665946652,"patch":[[{"diffs":[[0,"tyle"],[-1,"h"],[0,"s"],[1,"h"],[0,"eet\""]],"start1":73,"start2":73,"length1":10,"length2":10}]],"length":167,"saved":false}
+{"ts":1361666458486,"patch":[[{"diffs":[[0,"ody>\n</html>"],[1,"help"]],"start1":155,"start2":155,"length1":12,"length2":16}]],"length":171,"saved":false}
+{"ts":1361666876198,"patch":[[{"diffs":[[0,"tml>"],[-1,"help"]],"start1":163,"start2":163,"length1":8,"length2":4}]],"length":167,"saved":false}
+{"ts":1361666890709,"patch":[[{"diffs":[[0,"    "],[-1,"<h1>Hello, World!</h1>"],[0,"\n  <"]],"start1":123,"start2":123,"length1":30,"length2":8}]],"length":145,"saved":false}
+{"ts":1361666914270,"patch":[[{"diffs":[[0,"dy>\n    "],[1,"<h1>Oh hai!</h1>"],[0,"\n  </bod"]],"start1":119,"start2":119,"length1":16,"length2":32}]],"length":161,"saved":false}
