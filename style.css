@@ -2,6 +2,29 @@ body {
   font-family: 'Helvetica', 'Arial', sans-serif;
 }
 
-li {
-    background-color: #eee;
+.output {
+    float: left;
+    width: 300px;
+    margin: 0;
+}
+
+.inputs {
+    float: left;
+    width: 200px;
+}
+
+.control {
+    overflow: hidden;
+    margin-left: 20px;
+}
+.control input {
+    vertical-align: bottom;
+}
+
+.disabled {
+    color: #ccc;
+}
+
+.spacer {
+    margin-top: 20px;
 }
