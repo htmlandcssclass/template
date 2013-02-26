@@ -23,3 +23,15 @@
 {"ts":1361733196248,"patch":[[{"diffs":[[0,"c;\n}"],[-1,"\n\n#two {\n    background-color: #eee;\n}"]],"start1":302,"start2":302,"length1":42,"length2":4}]],"length":306,"saved":false}
 {"ts":1361733302841,"patch":[[{"diffs":[[0,"\n    width: "],[-1,"2"],[1,"3"],[0,"00px;\n    ma"]],"start1":85,"start2":85,"length1":25,"length2":25}]],"length":306,"saved":false}
 {"ts":1361733358382,"patch":[[{"diffs":[[0," #ccc;\n}"],[1,"\n\n.spacer {\n    margin-top: 20px;\n}"]],"start1":298,"start2":298,"length1":8,"length2":43}]],"length":341,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1361842892062,"patch":[[{"diffs":[[0,"ol input"],[1,",\n.control select"],[0," {\n    v"]],"start1":234,"start2":234,"length1":16,"length2":33}]],"length":358,"saved":false}
+{"ts":1361842928544,"patch":[[{"diffs":[[0,"bottom;\n"],[1,"    line-height: 20px\n"],[0,"}\n\n.disa"]],"start1":282,"start2":282,"length1":16,"length2":38}]],"length":380,"saved":false}
+{"ts":1361842929086,"patch":[[{"diffs":[[0,"ht: 20px"],[1,";"],[0,"\n}\n\n.dis"]],"start1":303,"start2":303,"length1":16,"length2":17}]],"length":381,"saved":false}
+{"ts":1361842967263,"patch":[[{"diffs":[[0,"0px;\n}\n\n"],[1,".control select {\n    margin: 0;\n}\n\n"],[0,".disable"]],"start1":308,"start2":308,"length1":16,"length2":52}]],"length":417,"saved":false}
+{"ts":1361842978353,"patch":[[{"diffs":[[0,"   margin: 0"],[1," inherit"],[0,";\n}\n\n.disabl"]],"start1":335,"start2":335,"length1":24,"length2":32}]],"length":425,"saved":false}
+{"ts":1361842990797,"patch":[[{"diffs":[[0,"0 in"],[-1,"herit"],[1,"itial"],[0,";\n}\n"]],"start1":346,"start2":346,"length1":13,"length2":13}]],"length":425,"saved":false}
+{"ts":1361843023749,"patch":[[{"diffs":[[0,"ol select {\n"],[1,"    width: 130px;\n"],[0,"    vertical"]],"start1":250,"start2":250,"length1":24,"length2":42}]],"length":443,"saved":false}
+{"ts":1361843038508,"patch":[[{"diffs":[[0,"t {\n"],[-1,"    width: 130px;\n"],[0,"    "]],"start1":258,"start2":258,"length1":26,"length2":8}]],"length":425,"saved":false}
+{"ts":1361843065149,"patch":[[{"diffs":[[0,"ntrol select"],[1,",\n.control [type=range]"],[0," {\n    margi"]],"start1":319,"start2":319,"length1":24,"length2":47}]],"length":448,"saved":false}
+{"ts":1361843078431,"patch":[[{"diffs":[[0,"control "],[1,"*"],[0,"[type=ra"]],"start1":334,"start2":334,"length1":16,"length2":17}]],"length":449,"saved":false}
+{"ts":1361843082864,"patch":[[{"diffs":[[0,"rol "],[-1,"*"],[1,"input"],[0,"[typ"]],"start1":338,"start2":338,"length1":9,"length2":13}]],"length":453,"saved":false}
+{"ts":1361843101495,"patch":[[{"diffs":[[0,"nitial;\n"],[1,"    width: 130px;\n"],[0,"}\n\n.disa"]],"start1":377,"start2":377,"length1":16,"length2":34}]],"length":471,"saved":false}

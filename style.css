@@ -17,8 +17,16 @@ body {
     overflow: hidden;
     margin-left: 20px;
 }
-.control input {
+.control input,
+.control select {
     vertical-align: bottom;
+    line-height: 20px;
+}
+
+.control select,
+.control input[type=range] {
+    margin: 0 initial;
+    width: 130px;
 }
 
 .disabled {

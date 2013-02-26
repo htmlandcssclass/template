@@ -1,4 +1,5 @@
 var PropertyControl = function(property, controlEl, displayEl, _options){
+    
     _options = _options ? _options : {};
     var options = {
         initialValue: _options.initialValue ? _options.initialValue : 0,
